@@ -1,0 +1,97 @@
+{
+  "project_info": {
+    "project_number": "57559407561",
+    "project_id": "uber-eats-mapp",
+    "storage_bucket": "uber-eats-mapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:57559407561:android:56cf267318f8964290a618",
+        "android_client_info": {
+          "package_name": "com.mapp.inc.client_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "57559407561-c0gc5pcuqg4v5b47n8gk5gkeecm7isp5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBNoLq8JZ-h06omc5vW1KU2jbLiYwQjSKs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "57559407561-c0gc5pcuqg4v5b47n8gk5gkeecm7isp5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:57559407561:android:2c47cb50338b365790a618",
+        "android_client_info": {
+          "package_name": "com.mapp.inc.restaurant_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "57559407561-c0gc5pcuqg4v5b47n8gk5gkeecm7isp5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBNoLq8JZ-h06omc5vW1KU2jbLiYwQjSKs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "57559407561-c0gc5pcuqg4v5b47n8gk5gkeecm7isp5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:57559407561:android:5ec765d4152ea08290a618",
+        "android_client_info": {
+          "package_name": "com.mappinc.food_delivery.driver_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "57559407561-c0gc5pcuqg4v5b47n8gk5gkeecm7isp5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBNoLq8JZ-h06omc5vW1KU2jbLiYwQjSKs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "57559407561-c0gc5pcuqg4v5b47n8gk5gkeecm7isp5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
