@@ -1,4 +1,5 @@
 # Food-Delivery-App
+A fully fledged prototype of food delivery app made with Flutter consisting of Customer App, Driver App and Restaurant App.<br/><br/>
 Customer App Screenshots<br/><br/>
 <a href="https://postimg.cc/xJtDrbPC" target="_blank"><img src="https://i.postimg.cc/xJtDrbPC/Screenshot-1622502567.png" alt="Screenshot-1622502567"/></a>
 <a href="https://postimg.cc/hhZWpTjZ" target="_blank"><img src="https://i.postimg.cc/hhZWpTjZ/Screenshot-1622502600.png" alt="Screenshot-1622502600"/></a>
